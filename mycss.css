@@ -1,6 +1,20 @@
 body {
-    background-color: lightblue}
+    background-color: lightblue
+}
 
+.color {
+    background-color: bisque;
+}
 
+.one{
+    background-color: azure;
+}
 
+#five{
+  color: #f33d6d;
+}
+
+#gogo{
+    color: #ec4700;
+}
 
